@@ -7,6 +7,7 @@ public class Driver {
 		glad();
 		hungry();
 		sad();
+		him();
 	}
 
 }
